@@ -1,0 +1,72 @@
+{
+	"ImportPath": "github.com/hashicorp/consul",
+	"GoVersion": "go1.3",
+	"Deps": [
+		{
+			"ImportPath": "github.com/armon/circbuf",
+			"Rev": "f092b4f207b6e5cce0569056fba9e1a2735cb6cf"
+		},
+		{
+			"ImportPath": "github.com/armon/go-metrics",
+			"Rev": "02567bbc4f518a43853d262b651a3c8257c3f141"
+		},
+		{
+			"ImportPath": "github.com/armon/gomdb",
+			"Rev": "a8e036c4dabe7437014ecf9dbc03c6f6f0766ef8"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/go-syslog",
+			"Rev": "ac3963b72ac367e48b1e68a831e62b93fb69091c"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/logutils",
+			"Rev": "8e0820fe7ac5eb2b01626b1d99df47c5449eb2d8"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/memberlist",
+			"Rev": "e6a282556f0e8f15e9a53dcb0d14912a3c2fb141"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/raft",
+			"Rev": "596cfa199e935afd43c94dfdf5a2ebfdec14cc6a"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/raft-mdb",
+			"Rev": "95d26447c3c54581de2bb102ecc3344079b234bd"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/serf/serf",
+			"Comment": "v0.6.3-1-g7f260e7",
+			"Rev": "7f260e70a89739bd38c1f0bf3b74c0e1c1ee617f"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/yamux",
+			"Rev": "35417c7dfab4085d7c921b33e4d5ea6cf9ceef65"
+		},
+		{
+			"ImportPath": "github.com/inconshreveable/muxado",
+			"Rev": "f693c7e88ba316d1a0ae3e205e22a01aa3ec2848"
+		},
+		{
+			"ImportPath": "github.com/miekg/dns",
+			"Rev": "5c48f3623a4b2f1465b8ccf4fe29b6eb3888ee07"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/cli",
+			"Rev": "2aa2fb21524415a6476dae06d49223342366ff2f"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/mapstructure",
+			"Rev": "6fb2c832bcac61d01212ab1d172f7a14a8585b07"
+		},
+		{
+			"ImportPath": "github.com/ryanuber/columnize",
+			"Comment": "v2.0.1",
+			"Rev": "785d943a7b6886e0bb2f139a60487b823dd8d9de"
+		},
+		{
+			"ImportPath": "github.com/ugorji/go/codec",
+			"Rev": "71c2886f5a673a35f909803f38ece5810165097b"
+		}
+	]
+}
